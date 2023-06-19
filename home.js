@@ -1,2 +1,1 @@
-Snook;
-age22;
+salin;
