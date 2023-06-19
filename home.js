@@ -1,1 +1,1 @@
-salin;
+Salin40;
